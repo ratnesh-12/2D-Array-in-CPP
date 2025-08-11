@@ -48,7 +48,25 @@ Display both sums.
 # Conclusion: 
 I learned how to identify and access primary and secondary diagonals in a square matrix, and how to sum their elements efficiently.
 
-# 3. Matrix Multiplication (Exp4)
+# 3. Matrix Input and Display (Exp3)
+# Aim: 
+To read the elements of a matrix from the user and display the matrix in proper format.
+
+# Theory: 
+A matrix is a 2D arrangement of elements in rows and columns. Taking input for each element involves nested loops, where the outer loop handles rows and the inner loop handles columns. Displaying the matrix uses the same nested loop structure to print elements in matrix form.
+
+# Algorithm:
+
+Input the number of rows and columns of the matrix.
+
+Using nested loops, take input for each element of the matrix.
+
+Using nested loops, print the elements in row-column format.
+
+# Conclusion: 
+I learned how to take user input for each element of a matrix and display it neatly using nested loops.
+
+# 4. Matrix Multiplication (Exp4)
 # Aim: 
 To multiply two matrices and display the resultant matrix.
 
@@ -70,7 +88,7 @@ Display the result matrix.
 # Conclusion: 
 I learned that matrix multiplication is only possible when the number of columns in the first matrix equals the number of rows in the second, and that each element of the result is calculated using a dot product.
 
-# 4. Matrix Transpose (Exp5)
+# 5. Matrix Transpose (Exp5)
 # Aim: 
 To find the transpose of a given matrix.
 
