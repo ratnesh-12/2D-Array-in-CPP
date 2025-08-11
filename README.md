@@ -107,3 +107,13 @@ Display the transposed matrix.
 
 # Conclusion: 
 I learned that the transpose of a matrix is obtained by swapping rows with columns, and it can be done by exchanging element positions (i, j) with (j, i).
+
+# 6. Compare 1st row and 2nd row (Exp6)
+# Aim:
+To compare the corresponding elements of the first row and the second row of a matrix.
+
+# Theory:
+A matrix is a collection of elements arranged in rows and columns. By accessing elements using their row and column indices, we can compare values from different rows. In this case, the elements from the first row (row index = 0) are compared with the elements from the second row (row index = 1) at the same column index. Equality or inequality is determined by a simple == comparison.
+
+# Conclusion:
+From this program, I learned how to use row and column indices to access specific elements in a matrix, and how to compare elements between two rows to check if they are equal or different.
